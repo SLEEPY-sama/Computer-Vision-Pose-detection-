@@ -2,6 +2,7 @@
 # AR Body Tracking Demo
 
 ## Overview
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/a2186b64-4ca7-4b84-b9e1-150ba69062a0" />
 
 This project is a real-time upper body tracking application developed in Unity using MediaPipe Pose Landmark Detection.
 
@@ -20,6 +21,7 @@ The project was developed as part of a Unity Game Developer technical assessment
 ---
 
 ## Features
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/04620119-eb01-4ff3-babe-aa73e3d8f093" />
 
 * Real-time webcam feed integration
 * MediaPipe Pose Landmark Detection
