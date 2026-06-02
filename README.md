@@ -17,7 +17,8 @@ The application captures webcam input, detects key upper body joints, and visual
 * Right Wrist
 
 The project was developed as part of a Unity Game Developer technical assessment.
-<img width="800" height="408" alt="image" src="https://github.com/user-attachments/assets/15cdb9dc-4d85-466b-bd61-67868da7111f" />
+<img width="800" height="408" alt="image" src="https://github.com/user-attachments/assets/0e71cb13-d549-4e1d-b5f5-22b75fcb0981" />
+
 
 ---
 
